@@ -1,9 +1,11 @@
-﻿body {
+﻿@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
+body {
     background-color: lemonchiffon;
 }
-.bigHeader{
-    font-size:35px;
-    background-color:lightpink;
+.bigHeader {
+    font-size: 35px;
+    background-color: lightpink;
+    font-family: 'Courier Prime', monospace;
 }
 #navBar{
     background-color: aquamarine;
