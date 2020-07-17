@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
+    <Content Include="img\photo-1524567248408-cbfd37e65e2d.jpg" />
     <Content Include="index.html" />
     <Content Include="css\styles.css" />
     <Content Include="Team.html" />
@@ -87,7 +88,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="img\" />
     <Folder Include="scripts\" />
   </ItemGroup>
   <PropertyGroup>
