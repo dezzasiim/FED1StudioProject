@@ -1,6 +1,9 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap');
 body {
     background-color: lemonchiffon;
+    background: url(/img/bckgrnd.jpg);
+    background-size: cover;
+    margin:0;
 }
 .bigHeader {
     font-size: 35px;
@@ -41,3 +44,40 @@ nav ul li {
         padding: .4em 1em;
         display: block;
     }
+
+/*for Classes.html- 2 collumn layout with 2 coloumns floated*/
+/*#cssLeftColumn {
+    width: 75%;
+    float: left;
+    border-right: 1px dashed teal;
+    box-sizing: border-box;
+}
+
+#cssRightColumn {
+    width: 25%;
+    float: right;
+    box-sizing: border-box;
+}*/
+/****************************************** classes cards ****************************************************/
+div.galleryItem {
+    margin: 5px;
+    border: 1px solid lightsalmon;
+    display: inline-block;
+    width: 350px;
+}
+
+    div.galleryItem:hover {
+        border: 1px solid lightsalmon;
+        background-color: red;
+    }
+
+    div.galleryItem img {
+        width: 100px;
+        height: auto;
+    }
+
+#imageGallery {
+    margin: 0 auto;
+    width: 85%;
+    text-align: center;
+}

@@ -69,7 +69,14 @@
   <ItemGroup>
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
+    <Content Include="img\bckgrnd.jpg" />
+    <Content Include="img\fifth guitar image.jpg" />
+    <Content Include="img\fourth guitar image.jpg" />
     <Content Include="img\photo-1524567248408-cbfd37e65e2d.jpg" />
+    <Content Include="img\sixth guitar image.jpg" />
+    <Content Include="img\strings.jpg" />
+    <Content Include="img\third guitar class.jpg" />
+    <Content Include="img\types.jpg" />
     <Content Include="index.html" />
     <Content Include="css\styles.css" />
     <Content Include="Team.html" />
