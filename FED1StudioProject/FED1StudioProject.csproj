@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
+    <Content Include="img\about us section.jpg" />
     <Content Include="img\bckgrnd.jpg" />
     <Content Include="img\fifth guitar image.jpg" />
     <Content Include="img\fourth guitar image.jpg" />
